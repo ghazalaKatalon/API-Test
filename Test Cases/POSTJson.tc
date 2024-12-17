@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>POSTJson</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>980a5e60-5783-4b36-80d3-3ecbe9b8ac69</testCaseGuid>
+</TestCaseEntity>

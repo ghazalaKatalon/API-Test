@@ -1,0 +1,11 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+New Test Suite,,,,17-10-2024 17:26:34,17-10-2024 17:26:35,0.626s,PASSED
+,,,,,,,
+Test Cases/New Test Case (2),,,,17-10-2024 17:26:34,17-10-2024 17:26:35,0.500s,PASSED
+"sendRequest(findTestObject(""API/GET/GetUserList""))",,,,17-10-2024 17:26:34,17-10-2024 17:26:35,0.440s,PASSED
+,,,,,,,
+Test Cases/NotFound,,,,17-10-2024 17:26:35,17-10-2024 17:26:35,0.046s,PASSED
+"sendRequest(findTestObject(""API/GET/NotFoundSingleUser""))",,,,17-10-2024 17:26:35,17-10-2024 17:26:35,0.031s,PASSED
+,,,,,,,
+Test Cases/GetSingleUser,,,,17-10-2024 17:26:35,17-10-2024 17:26:35,0.037s,PASSED
+"sendRequest(findTestObject(""API/GET/GetSingleUser""))",,,,17-10-2024 17:26:35,17-10-2024 17:26:35,0.024s,PASSED

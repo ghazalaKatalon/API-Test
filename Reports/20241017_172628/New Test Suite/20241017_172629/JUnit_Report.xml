@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="New Test Suite" time="0.626" tests="3" failures="0" errors="0">
+   <testsuite name="New Test Suite" tests="3" failures="0" errors="0" time="0.626" skipped="0" timestamp="17-10-2024T17:26:34" hostname="ghazalashahin - localhost" id="Test Suites/New Test Suite">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="/Users/ghazalashahin/Katalon Studio/API-Test/Reports/20241017_172628/New Test Suite/20241017_172629"/>
+         <property name="logFiles" value="/Users/ghazalashahin/Katalon Studio/API-Test/Reports/20241017_172628/New Test Suite/20241017_172629/execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="ghazalashahin - localhost"/>
+         <property name="hostAddress" value="127.0.0.1"/>
+         <property name="os" value="Mac OS X 64bit"/>
+         <property name="katalonVersion" value="9.7.2.223"/>
+      </properties>
+      <testcase name="Test Cases/New Test Case (2)" time="0.5" classname="Test Cases/New Test Case (2)" status="PASSED">
+         <system-out><![CDATA[17-10-2024T17:26:34 - [TEST_CASE][PASSED] - Test Cases/New Test Case (2): Test Cases/New Test Case (2)
+
+17-10-2024T17:26:34 - [TEST_STEP][PASSED] - sendRequest(findTestObject("API/GET/GetUserList")): Send request successfully
+
+17-10-2024T17:26:35 - [MESSAGE][INFO] - HAR: /Users/ghazalashahin/Katalon Studio/API-Test/Reports/20241017_172628/New Test Suite/20241017_172629/requests/main/0.har
+
+17-10-2024T17:26:35 - [MESSAGE][PASSED] - Send request successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/NotFound" time="0.046" classname="Test Cases/NotFound" status="PASSED">
+         <system-out><![CDATA[17-10-2024T17:26:35 - [TEST_CASE][PASSED] - Test Cases/NotFound: Test Cases/NotFound
+
+17-10-2024T17:26:35 - [TEST_STEP][PASSED] - sendRequest(findTestObject("API/GET/NotFoundSingleUser")): Send request successfully
+
+17-10-2024T17:26:35 - [MESSAGE][INFO] - HAR: /Users/ghazalashahin/Katalon Studio/API-Test/Reports/20241017_172628/New Test Suite/20241017_172629/requests/main/1.har
+
+17-10-2024T17:26:35 - [MESSAGE][PASSED] - Send request successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/GetSingleUser" time="0.037" classname="Test Cases/GetSingleUser" status="PASSED">
+         <system-out><![CDATA[17-10-2024T17:26:35 - [TEST_CASE][PASSED] - Test Cases/GetSingleUser: Test Cases/GetSingleUser
+
+17-10-2024T17:26:35 - [TEST_STEP][PASSED] - sendRequest(findTestObject("API/GET/GetSingleUser")): Send request successfully
+
+17-10-2024T17:26:35 - [MESSAGE][INFO] - HAR: /Users/ghazalashahin/Katalon Studio/API-Test/Reports/20241017_172628/New Test Suite/20241017_172629/requests/main/2.har
+
+17-10-2024T17:26:35 - [MESSAGE][PASSED] - Send request successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[17-10-2024T17:26:34 - [TEST_SUITE][PASSED] - New Test Suite: Test Cases/GetSingleUser]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

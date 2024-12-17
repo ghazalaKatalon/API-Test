@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="New Postman Collection" time="1.844" tests="4" failures="0" errors="0">
+   <testsuite name="New Postman Collection" tests="4" failures="0" errors="0" time="1.844" skipped="0" timestamp="25-10-2024T21:45:42" hostname="ghazalashahin - localhost" id="Test Suites/New Postman Collection">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="/Users/ghazalashahin/Katalon Studio/API-Test/Reports/20241025_214536/New Postman Collection/20241025_214537"/>
+         <property name="logFiles" value="/Users/ghazalashahin/Katalon Studio/API-Test/Reports/20241025_214536/New Postman Collection/20241025_214537/execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="ghazalashahin - localhost"/>
+         <property name="hostAddress" value="127.0.0.1"/>
+         <property name="os" value="Mac OS X 64bit"/>
+         <property name="katalonVersion" value="9.7.2.223"/>
+      </properties>
+      <testcase name="Test Cases/GETJson" time="0.746" classname="Test Cases/GETJson" status="PASSED">
+         <system-out><![CDATA[25-10-2024T21:45:42 - [TEST_CASE][PASSED] - Test Cases/GETJson: Test Cases/GETJson
+
+25-10-2024T21:45:42 - [TEST_STEP][PASSED] - sendRequest(findTestObject("NewCollection/Postman (1)/GET")): Send request successfully
+
+25-10-2024T21:45:43 - [MESSAGE][INFO] - HAR: /Users/ghazalashahin/Katalon Studio/API-Test/Reports/20241025_214536/New Postman Collection/20241025_214537/requests/main/0.har
+
+25-10-2024T21:45:43 - [MESSAGE][PASSED] - Send request successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/POSTJson" time="0.365" classname="Test Cases/POSTJson" status="PASSED">
+         <system-out><![CDATA[25-10-2024T21:45:43 - [TEST_CASE][PASSED] - Test Cases/POSTJson: Test Cases/POSTJson
+
+25-10-2024T21:45:43 - [TEST_STEP][PASSED] - sendRequest(findTestObject("NewCollection/Postman (1)/POST")): Send request successfully
+
+25-10-2024T21:45:43 - [MESSAGE][INFO] - HAR: /Users/ghazalashahin/Katalon Studio/API-Test/Reports/20241025_214536/New Postman Collection/20241025_214537/requests/main/1.har
+
+25-10-2024T21:45:43 - [MESSAGE][PASSED] - Send request successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/PUTJson" time="0.106" classname="Test Cases/PUTJson" status="PASSED">
+         <system-out><![CDATA[25-10-2024T21:45:43 - [TEST_CASE][PASSED] - Test Cases/PUTJson: Test Cases/PUTJson
+
+25-10-2024T21:45:43 - [TEST_STEP][PASSED] - sendRequest(findTestObject("NewCollection/Postman (1)/PUT")): Send request successfully
+
+25-10-2024T21:45:43 - [MESSAGE][INFO] - HAR: /Users/ghazalashahin/Katalon Studio/API-Test/Reports/20241025_214536/New Postman Collection/20241025_214537/requests/main/2.har
+
+25-10-2024T21:45:43 - [MESSAGE][PASSED] - Send request successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/DeleteUser" time="0.581" classname="Test Cases/DeleteUser" status="PASSED">
+         <system-out><![CDATA[25-10-2024T21:45:43 - [TEST_CASE][PASSED] - Test Cases/DeleteUser: Test Cases/DeleteUser
+
+25-10-2024T21:45:43 - [TEST_STEP][PASSED] - sendRequest(findTestObject("API/POST/DeleteUser")): Send request successfully
+
+25-10-2024T21:45:44 - [MESSAGE][INFO] - HAR: /Users/ghazalashahin/Katalon Studio/API-Test/Reports/20241025_214536/New Postman Collection/20241025_214537/requests/main/3.har
+
+25-10-2024T21:45:44 - [MESSAGE][PASSED] - Send request successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[25-10-2024T21:45:42 - [TEST_SUITE][PASSED] - New Postman Collection: Test Cases/DeleteUser]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

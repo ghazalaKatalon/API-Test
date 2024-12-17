@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Postman,,,,17-10-2024 18:01:07,17-10-2024 18:11:08,10m - 0.836s,FAILED
+,,,,,,,
+Test Cases/Postman1,,,,17-10-2024 18:04:52,17-10-2024 18:06:07,1m - 15.039s,FAILED
+"sendRequest(findTestObject(""Postman/1.01""))",,,,17-10-2024 18:04:52,17-10-2024 18:06:07,1m - 15.019s,FAILED
+,,,,,,,
+Test Cases/Postman2,,,,17-10-2024 18:09:53,17-10-2024 18:11:08,1m - 15.043s,FAILED
+"sendRequest(findTestObject(""Postman/1.02""))",,,,17-10-2024 18:09:53,17-10-2024 18:11:08,1m - 15.032s,FAILED

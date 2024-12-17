@@ -1,0 +1,14 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+POST,,,,17-10-2024 17:32:26,17-10-2024 17:32:28,2.160s,PASSED
+,,,,,,,
+Test Cases/CreateUser,,,,17-10-2024 17:32:26,17-10-2024 17:32:27,0.852s,PASSED
+"sendRequest(findTestObject(""API/POST/CreateUser""))",,,,17-10-2024 17:32:26,17-10-2024 17:32:27,0.787s,PASSED
+,,,,,,,
+Test Cases/UpdateUser,,,,17-10-2024 17:32:27,17-10-2024 17:32:27,0.363s,PASSED
+"sendRequest(findTestObject(""API/POST/UpdateUser""))",,,,17-10-2024 17:32:27,17-10-2024 17:32:27,0.347s,PASSED
+,,,,,,,
+Test Cases/PatchUser,,,,17-10-2024 17:32:27,17-10-2024 17:32:28,0.518s,PASSED
+"sendRequest(findTestObject(""API/POST/PatchUser""))",,,,17-10-2024 17:32:27,17-10-2024 17:32:28,0.497s,PASSED
+,,,,,,,
+Test Cases/DeleteUser,,,,17-10-2024 17:32:28,17-10-2024 17:32:28,0.374s,PASSED
+"sendRequest(findTestObject(""API/POST/DeleteUser""))",,,,17-10-2024 17:32:28,17-10-2024 17:32:28,0.350s,PASSED

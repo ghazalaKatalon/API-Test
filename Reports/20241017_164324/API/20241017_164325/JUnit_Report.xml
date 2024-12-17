@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="API" time="0.708" tests="2" failures="0" errors="0">
+   <testsuite name="API" tests="2" failures="0" errors="0" time="0.708" skipped="0" timestamp="17-10-2024T16:43:31" hostname="ghazalashahin - localhost" id="Test Suites/API">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="/Users/ghazalashahin/Katalon Studio/API-Test/Reports/20241017_164324/API/20241017_164325"/>
+         <property name="logFiles" value="/Users/ghazalashahin/Katalon Studio/API-Test/Reports/20241017_164324/API/20241017_164325/execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="ghazalashahin - localhost"/>
+         <property name="hostAddress" value="127.0.0.1"/>
+         <property name="os" value="Mac OS X 64bit"/>
+         <property name="katalonVersion" value="9.7.2.223"/>
+      </properties>
+      <testcase name="Test Cases/GetEmployeeList" time="0.63" classname="Test Cases/GetEmployeeList" status="PASSED">
+         <system-out><![CDATA[17-10-2024T16:43:31 - [TEST_CASE][PASSED] - Test Cases/GetEmployeeList: Test Cases/GetEmployeeList
+
+17-10-2024T16:43:31 - [TEST_STEP][PASSED] - sendRequest(findTestObject("API/REST/GetUserList")): Send request successfully
+
+17-10-2024T16:43:31 - [MESSAGE][INFO] - HAR: /Users/ghazalashahin/Katalon Studio/API-Test/Reports/20241017_164324/API/20241017_164325/requests/main/0.har
+
+17-10-2024T16:43:31 - [MESSAGE][PASSED] - Send request successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/GetUserList" time="0.023" classname="Test Cases/GetUserList" status="PASSED">
+         <system-out><![CDATA[17-10-2024T16:43:31 - [TEST_CASE][PASSED] - Test Cases/GetUserList: Test Cases/GetUserList
+
+17-10-2024T16:43:32 - [TEST_STEP][PASSED] - return null: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[17-10-2024T16:43:31 - [TEST_SUITE][PASSED] - API: Test Cases/GetUserList]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

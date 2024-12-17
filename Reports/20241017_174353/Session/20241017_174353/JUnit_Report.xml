@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Session" time="1.339" tests="2" failures="0" errors="0">
+   <testsuite name="Session" tests="2" failures="0" errors="0" time="1.339" skipped="0" timestamp="17-10-2024T17:43:57" hostname="ghazalashahin - localhost" id="Test Suites/Session">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="/Users/ghazalashahin/Katalon Studio/API-Test/Reports/20241017_174353/Session/20241017_174353"/>
+         <property name="logFiles" value="/Users/ghazalashahin/Katalon Studio/API-Test/Reports/20241017_174353/Session/20241017_174353/execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="ghazalashahin - localhost"/>
+         <property name="hostAddress" value="127.0.0.1"/>
+         <property name="os" value="Mac OS X 64bit"/>
+         <property name="katalonVersion" value="9.7.2.223"/>
+      </properties>
+      <testcase name="Test Cases/CreateSession" time="0.942" classname="Test Cases/CreateSession" status="PASSED">
+         <system-out><![CDATA[17-10-2024T17:43:57 - [TEST_CASE][PASSED] - Test Cases/CreateSession: Test Cases/CreateSession
+
+17-10-2024T17:43:57 - [TEST_STEP][PASSED] - sendRequest(findTestObject("API/SESSION/CreateSession")): Send request successfully
+
+17-10-2024T17:43:58 - [MESSAGE][INFO] - HAR: /Users/ghazalashahin/Katalon Studio/API-Test/Reports/20241017_174353/Session/20241017_174353/requests/main/0.har
+
+17-10-2024T17:43:58 - [MESSAGE][PASSED] - Send request successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/EndSession" time="0.354" classname="Test Cases/EndSession" status="PASSED">
+         <system-out><![CDATA[17-10-2024T17:43:58 - [TEST_CASE][PASSED] - Test Cases/EndSession: Test Cases/EndSession
+
+17-10-2024T17:43:58 - [TEST_STEP][PASSED] - sendRequest(findTestObject("API/SESSION/EndSession")): Send request successfully
+
+17-10-2024T17:43:58 - [MESSAGE][INFO] - HAR: /Users/ghazalashahin/Katalon Studio/API-Test/Reports/20241017_174353/Session/20241017_174353/requests/main/1.har
+
+17-10-2024T17:43:58 - [MESSAGE][PASSED] - Send request successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[17-10-2024T17:43:57 - [TEST_SUITE][PASSED] - Session: Test Cases/EndSession]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

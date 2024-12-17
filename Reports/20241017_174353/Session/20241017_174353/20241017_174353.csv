@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Session,,,,17-10-2024 17:43:57,17-10-2024 17:43:58,1.339s,PASSED
+,,,,,,,
+Test Cases/CreateSession,,,,17-10-2024 17:43:57,17-10-2024 17:43:58,0.942s,PASSED
+"sendRequest(findTestObject(""API/SESSION/CreateSession""))",,,,17-10-2024 17:43:57,17-10-2024 17:43:58,0.877s,PASSED
+,,,,,,,
+Test Cases/EndSession,,,,17-10-2024 17:43:58,17-10-2024 17:43:58,0.354s,PASSED
+"sendRequest(findTestObject(""API/SESSION/EndSession""))",,,,17-10-2024 17:43:58,17-10-2024 17:43:58,0.340s,PASSED

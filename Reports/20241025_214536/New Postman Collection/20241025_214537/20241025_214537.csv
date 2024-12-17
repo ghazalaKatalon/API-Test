@@ -1,0 +1,14 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+New Postman Collection,,,,25-10-2024 21:45:42,25-10-2024 21:45:44,1.844s,PASSED
+,,,,,,,
+Test Cases/GETJson,,,,25-10-2024 21:45:42,25-10-2024 21:45:43,0.746s,PASSED
+"sendRequest(findTestObject(""NewCollection/Postman (1)/GET""))",,,,25-10-2024 21:45:42,25-10-2024 21:45:43,0.673s,PASSED
+,,,,,,,
+Test Cases/POSTJson,,,,25-10-2024 21:45:43,25-10-2024 21:45:43,0.365s,PASSED
+"sendRequest(findTestObject(""NewCollection/Postman (1)/POST""))",,,,25-10-2024 21:45:43,25-10-2024 21:45:43,0.349s,PASSED
+,,,,,,,
+Test Cases/PUTJson,,,,25-10-2024 21:45:43,25-10-2024 21:45:43,0.106s,PASSED
+"sendRequest(findTestObject(""NewCollection/Postman (1)/PUT""))",,,,25-10-2024 21:45:43,25-10-2024 21:45:43,0.086s,PASSED
+,,,,,,,
+Test Cases/DeleteUser,,,,25-10-2024 21:45:43,25-10-2024 21:45:44,0.581s,PASSED
+"sendRequest(findTestObject(""API/POST/DeleteUser""))",,,,25-10-2024 21:45:43,25-10-2024 21:45:44,0.568s,PASSED

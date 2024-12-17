@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+API,,,,17-10-2024 16:43:31,17-10-2024 16:43:32,0.708s,PASSED
+,,,,,,,
+Test Cases/GetEmployeeList,,,,17-10-2024 16:43:31,17-10-2024 16:43:31,0.630s,PASSED
+"sendRequest(findTestObject(""API/REST/GetUserList""))",,,,17-10-2024 16:43:31,17-10-2024 16:43:31,0.552s,PASSED
+,,,,,,,
+Test Cases/GetUserList,,,,17-10-2024 16:43:31,17-10-2024 16:43:32,0.023s,PASSED
+return null,,,,17-10-2024 16:43:32,17-10-2024 16:43:32,0.000s,PASSED

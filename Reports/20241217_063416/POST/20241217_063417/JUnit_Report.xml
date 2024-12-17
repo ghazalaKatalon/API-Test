@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="POST" time="2.089" tests="4" failures="0" errors="0">
+   <testsuite name="POST" tests="4" failures="0" errors="0" time="2.089" skipped="0" timestamp="17-12-2024T06:34:19" hostname="ghazalashahin - localhost" id="Test Suites/POST">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="/Users/ghazalashahin/Documents/Reema-Test/API-Test/Reports/20241217_063416/POST/20241217_063417"/>
+         <property name="logFiles" value="/Users/ghazalashahin/Documents/Reema-Test/API-Test/Reports/20241217_063416/POST/20241217_063417/execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="ghazalashahin - localhost"/>
+         <property name="hostAddress" value="127.0.0.1"/>
+         <property name="os" value="Mac OS X 64bit"/>
+         <property name="katalonVersion" value="10.0.0.223"/>
+      </properties>
+      <testcase name="Test Cases/CreateUser" time="0.941" classname="Test Cases/CreateUser" status="PASSED">
+         <system-out><![CDATA[17-12-2024T06:34:19 - [TEST_CASE][PASSED] - Test Cases/CreateUser: Test Cases/CreateUser
+
+17-12-2024T06:34:19 - [TEST_STEP][PASSED] - sendRequest(findTestObject("API/POST/CreateUser")): Send request successfully
+
+17-12-2024T06:34:20 - [MESSAGE][INFO] - HAR: /Users/ghazalashahin/Documents/Reema-Test/API-Test/Reports/20241217_063416/POST/20241217_063417/requests/main/0.har
+
+17-12-2024T06:34:20 - [MESSAGE][PASSED] - Send request successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/UpdateUser" time="0.408" classname="Test Cases/UpdateUser" status="PASSED">
+         <system-out><![CDATA[17-12-2024T06:34:20 - [TEST_CASE][PASSED] - Test Cases/UpdateUser: Test Cases/UpdateUser
+
+17-12-2024T06:34:20 - [TEST_STEP][PASSED] - sendRequest(findTestObject("API/POST/UpdateUser")): Send request successfully
+
+17-12-2024T06:34:20 - [MESSAGE][INFO] - HAR: /Users/ghazalashahin/Documents/Reema-Test/API-Test/Reports/20241217_063416/POST/20241217_063417/requests/main/1.har
+
+17-12-2024T06:34:20 - [MESSAGE][PASSED] - Send request successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/PatchUser" time="0.337" classname="Test Cases/PatchUser" status="PASSED">
+         <system-out><![CDATA[17-12-2024T06:34:20 - [TEST_CASE][PASSED] - Test Cases/PatchUser: Test Cases/PatchUser
+
+17-12-2024T06:34:20 - [TEST_STEP][PASSED] - sendRequest(findTestObject("API/POST/PatchUser")): Send request successfully
+
+17-12-2024T06:34:20 - [MESSAGE][INFO] - HAR: /Users/ghazalashahin/Documents/Reema-Test/API-Test/Reports/20241217_063416/POST/20241217_063417/requests/main/2.har
+
+17-12-2024T06:34:20 - [MESSAGE][PASSED] - Send request successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/DeleteUser" time="0.339" classname="Test Cases/DeleteUser" status="PASSED">
+         <system-out><![CDATA[17-12-2024T06:34:20 - [TEST_CASE][PASSED] - Test Cases/DeleteUser: Test Cases/DeleteUser
+
+17-12-2024T06:34:20 - [TEST_STEP][PASSED] - sendRequest(findTestObject("API/POST/DeleteUser")): Send request successfully
+
+17-12-2024T06:34:21 - [MESSAGE][INFO] - HAR: /Users/ghazalashahin/Documents/Reema-Test/API-Test/Reports/20241217_063416/POST/20241217_063417/requests/main/3.har
+
+17-12-2024T06:34:21 - [MESSAGE][PASSED] - Send request successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[17-12-2024T06:34:19 - [TEST_SUITE][PASSED] - POST: Test Cases/DeleteUser]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
